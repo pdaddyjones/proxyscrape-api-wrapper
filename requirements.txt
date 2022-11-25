@@ -1,0 +1,5 @@
+requests
+tinydb
+pytest>=7.1.1
+coverage
+pytest-cov
